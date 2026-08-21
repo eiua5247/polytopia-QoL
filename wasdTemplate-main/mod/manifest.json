@@ -1,0 +1,15 @@
+{
+    "id": "polyqol",
+    "name": "poly-QoL",
+    "version": "1.0",
+    "authors": [
+        "wasdtemplate"
+    ],
+    "dependencies": [
+        {
+            "id": "polytopia",
+            "min": "2.10.0"
+        }
+    ],
+    "description": "polytopia QoL mod"
+}
